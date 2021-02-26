@@ -1,5 +1,6 @@
 # WebGo
 This is a awesome script to go internet on termux!!!
+![Screenshot_2021-02-24-20-57-05-1-1](https://user-images.githubusercontent.com/77476778/109286755-b08de600-7848-11eb-9e14-0d0bc80fc216.png)
 
 
 # Commands
