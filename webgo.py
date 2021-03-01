@@ -1,6 +1,6 @@
 import os,sys,time
 os.system('clear')
-os.system('xdg-open https://youtube.com/c/SLPhoneTechnician')
+os.system('xdg-open https://youtube.com/channel/UCWNRCD8AS0MXcW5CrqC3EEQ')
 os.system('figlet WebGo')
 
 
